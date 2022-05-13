@@ -1,8 +1,7 @@
 # Euro Documents Seomal
-생활코딩의 지식 지도 seomal을 저의 블로그 Euro Documents에서 사용하기 위해 만들어 보았습니다.
-
-## 결과
-[Euro Documents](/https://eurodocs.tistory.com/)
+생활코딩의 지식 지도 seomal을 참고하여 
+제 개인 블로그 Euro Documents의 지식 지도를 만들어 보았습니다.
+[Euro Documents](/https://eurodocs.tistory.com/)에서 결과를 확인하실 수 있습니다.
 
 ## Refernce.
 [지식지도 서말](/https://seomal.com/map/1)
